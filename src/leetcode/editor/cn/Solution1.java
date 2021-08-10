@@ -1,10 +1,6 @@
 package leetcode.editor.cn;
 
-import com.sun.deploy.util.ArrayUtil;
-
 import java.util.*;
-
-import static javafx.scene.input.KeyCode.T;
 
 /**
  * @Description: TODO
